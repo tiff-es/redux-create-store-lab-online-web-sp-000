@@ -37,12 +37,12 @@
   },
   "dependencies": {
     "babel-preset-env": "^1.7.0",
-    "chai": "^4.2.0",
+    "chai": "^4.5.0",
     "file-system": "^2.2.2",
     "jsdom": "^9.9.1",
     "mocha-jsdom": "^2.0.0",
     "path": "^0.12.7",
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react": "^15.7.0",
+    "react-dom": "^15.7.0"
   }
 }
